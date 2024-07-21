@@ -43,7 +43,7 @@ h1::after {
 
 /* ::placeholder pseudoelement */
 input::placeholder {
-    color: #888; /* Color del texto del placeholder */
+    color: #8338ec; /* Color del texto del placeholder */
     font-style: italic; /* Estilo en cursiva del placeholder */
 }
 
